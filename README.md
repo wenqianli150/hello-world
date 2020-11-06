@@ -1,2 +1,2 @@
 # hello-world
-TCSS 502 A GitHub and git assignment
+This is a read me file
